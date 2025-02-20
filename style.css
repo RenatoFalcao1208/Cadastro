@@ -1,0 +1,33 @@
+div{
+background-color:cornflowerblue;
+width: 300px;
+height: 300px;
+border-radius: 20px;
+
+}
+input {
+    height: 15px;
+    background-color:azure;
+    border: none;
+    outline: 0;
+    border-radius: 20px;
+    color:darkblue;
+}
+button {
+    height: 20px;
+    width: 70px;
+    background-color: turquoise;
+    color: black;
+    border:none;
+    border-radius: 30px;
+    cursor: pointer;
+
+}
+button:hover{
+    background-color: red;
+    color: aliceblue;
+    width: 75px;
+    height: 25px;
+
+
+}
