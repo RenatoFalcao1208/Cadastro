@@ -1,1 +1,1 @@
-https://github.com/RenatoFalcao1208/Cadastro.git
+https://renatofalcao1208.github.io/Cadastro/
